@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+scikit-learn
+Levenshtein
+pyttsx3
+pandas
+streamlit
